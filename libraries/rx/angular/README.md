@@ -1,6 +1,6 @@
-# [*Angular*](https://angularjs.org)
+# [Angular](https://angularjs.org)
 
-## [*Angular 1*](https://github.com/angular/angular.js)
+## [Angular 1](https://github.com/angular/angular.js)
 
 ### Standalone plugins
 
@@ -16,7 +16,7 @@
 
 ***
 
-## [*Angular 2*](https://github.com/angular/angular)
+## [Angular 2](https://github.com/angular/angular)
 
 ### Standalone plugins
 

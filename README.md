@@ -2,6 +2,6 @@
 
 ## Reactive Libraries
 
-* [*The Reactive Extensions for JavaScript (RxJS)*](libraries/rx/README.md)
-	* [*AngularJS*](libraries/rx/angular/README.md)
-	* [*ReactJS*](libraries/rx/react/README.md)
+* [**The Reactive Extensions for JavaScript (RxJS)**](libraries/rx/README.md)
+	* [**AngularJS**](libraries/rx/angular/README.md)
+	* [**ReactJS**](libraries/rx/react/README.md)
